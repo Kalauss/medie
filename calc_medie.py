@@ -29,7 +29,6 @@ if x=="yes":
     print("Note de 10. ")
 else:
     print("Ok, pai bravo! ")
-    
 
 
     
